@@ -2,3 +2,4 @@ Flask
 requests
 fake-useragent
 gunicorn
+beautifulsoup4
